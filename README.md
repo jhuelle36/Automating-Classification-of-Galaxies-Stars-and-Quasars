@@ -1,1 +1,3 @@
+# Automating
+
 This is the repository for my graduate Machine Learning class (CAP 5610) Final Term Project. The "TermProject-JadenHuelle.ipynb" notebook contains the source code for a Multi-Layer Perceptron (MLP) trained to classify celestial objects. The MLP was trained on my modified version of the Sloan Digital Sky Survey (SDSS) dataset, which contains spectroscopic and photometric data for three classes of celestial objects: galaxies, stars, and quasars. Automating the classification of celestial objects saves time and money for scientists who would otherwise perform this task manually. Additionally, this model could be implemented in telescopes to serve as a filter for celestial object detection.
